@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "{{ cookiecutter.title }}",
+  "description": "{{ cookiecutter.description }}",
+  "version": "1.0",
+  "icons": {
+    "128": "128.png"
+  },
+  "app": {
+    "urls": [
+      "{{ cookiecutter.website }}"
+    ],
+    "launch": {
+      "web_url": "{{ cookiecutter.website }}"
+    }
+  },
+  "permissions": [
+    "unlimitedStorage",
+    "notifications"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+   "title": "Sample",
+   "description": "A sample Chrome website bookmark app",
+   "website": "https://example.com",
+   "icon_url": "http://chrome-apps-doc2.appspot.com/trunk/extensions/examples/api/idle/idle_simple/sample-128.png"
+}
